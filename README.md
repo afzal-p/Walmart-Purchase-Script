@@ -1,5 +1,5 @@
 
-Working as of January 2021
+Working as of January 2021 
 
 In 'script.py' change info, state @ line 111, product url, and driver path
 
